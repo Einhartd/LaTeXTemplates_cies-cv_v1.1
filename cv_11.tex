@@ -1,0 +1,196 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cies Resume/CV
+% LaTeX Template
+% Version 1.1 (20/7/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Cies Breijs (cies@kde.nl)
+% https://github.com/cies/resume with extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,a4paper]{article} % Font size (10-12pt) and paper size (a4paper, letterpaper, legalpaper, etc)
+
+\include{structure} % Include structure.tex which contains packages and document layout definitions
+
+\hyphenation{Some-long-word} % Specify custom hyphenation points in words with dashes where you would like hyphenation to occur, or alternatively, don't put any dashes in a word to stop hyphenation altogether
+
+\begin{document} 
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\maintitle{Oliwier Kniażewski}{January 6, 2002}  % Your name and date of birth or subtitle
+
+\noindent\href{mailto:oliwierkniazewski@gmail.com}{oliwierkniazewski@gmail.com}\bull % Your email address
+\textsmaller{+}48 661 677 061\bull % Your phone number(s) and Skype username
+\href{https://github.com/Einhartd}{Github}\\ % Your URL
+%123 Broadway\bull City, 12345\bull State\bull Country % Your address
+
+\spacedhrule{0.9em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	SUMMARY SECTION
+%----------------------------------------------------------------------------------------
+
+% \roottitle{Summary} % Root section title
+
+% \vspace{-1.3em} % Reduce whitespace after the Summary heading and the two-column content
+
+% \begin{multicols}{2}  % Start a two-column layout
+% \noindent \textit{A summary of your interests, achievements, history, topic of study or any other short summary of your professional life.}\\\\
+% Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc iaculis scelerisque vestibulum. Sed ut sapien et dui mollis condimentum. Phasellus enim lectus, dignissim vitae velit sit amet, porttitor tincidunt lectus. Vivamus adipiscing volutpat lacinia. Sed dui ipsum, iaculis id facilisis sed, dapibus quis lacus. Quisque blandit hendrerit malesuada. Nunc sollicitudin nisl nunc, vitae luctus leo tincidunt vel.
+
+% Pellentesque bibendum convallis adipiscing. Suspendisse facilisis id massa a lacinia. Nullam odio nibh, placerat at fermentum in, tincidunt eu ipsum. Nullam adipiscing lacus id dui suscipit commodo. Vestibulum iaculis leo imperdiet, porta lorem eu, tempus tortor. Donec interdum risus ullamcorper, vestibulum nulla ut, tincidunt ante. Duis adipiscing auctor nisi, quis tempor tortor ornare aliquet. Aenean at tempor leo. Nam eleifend venenatis elit id aliquet. Mauris quis lacinia dolor, a posuere tellus. Suspendisse nec augue pretium, condimentum risus vitae, dignissim tellus. Proin gravida ante eget massa lacinia consequat. Integer pharetra vel ligula sed vulputate. Integer eget erat quam. Proin adipiscing lorem ac purus adipiscing, non ullamcorper nisi porttitor. 
+% \end{multicols}
+
+% \spacedhrule{0.5em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\roottitle{Experience} % Top level section
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{\href{https://ennovationtech.eu/en/home/}{Ennovation Technology}}
+{\textsc{Warsaw, Poland}} {
+
+\headedsubsection % Job title entry for the current employer
+{Software Tester}
+{Jan '25 -- Present}
+{\bodytext{Prepared documentation for developed software. 
+Conducted testing of software on STM32 boards to ensure functionality and reliability.}}
+
+\headedsubsection % Job title entry for the current employer
+{Electrical Installation Designer}
+{July '24 -- Jan '25}
+{\bodytext{Designed high-power electrical installations for energy storage systems. 
+Developed electrical systems for electric tour vehicles and trucks. Engineered the 
+electrical installation for the Battery Thermal Management System (BTMS).}}
+
+\headedsubsection % Job title entry for the current employer
+{Electrical Engineer}
+{Dec '23 -- July '24}
+{\bodytext{Installed electrical systems for electric vehicles, including 
+electric trucks and tour vehicles. Implemented electrical installations 
+for energy storage systems and AC/DC charging stations for electric vehicles.}}
+}
+
+%------------------------------------------------
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{\href{https://www.adek.pw.edu.pl/}{ADek Student Association}}
+{\textsc{Warsaw University of Technology, Poland}} {
+
+\headedsubsection % Job title entry for the current employer
+{Head of Electronics and Electrical Department}
+{Jan '24 -- Sept '24}
+{\bodytext{Supervised teams responsible for the electronic and electrical development 
+of the eBuggy vehicle. Established collaborations with international companies to secure 
+support for the eBuggy project.}}
+
+\headedsubsection % Job title entry for the current employer
+{Electronics Engineer}
+{Sept '22 -- Jan '24}
+{\bodytext{Developed electronic systems based on STM32 for the eBuggy vehicle project. 
+Designed and built the Power Distribution Unit (PDU), programmed its functionality, 
+and established communication between systems using the CAN protocol.}}
+}
+
+
+
+%------------------------------------------------
+
+% \begin{center}
+% \textit{Please refer to \href{http://www.linkedin.com/in/ciesbreijs}{my Linkedin profile} 
+% for the complete list of work experiences along with recommendations.}
+% \end{center}
+
+%------------------------------------------------
+
+\spacedhrule{-0.2em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\roottitle{Education} % Top level section
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{Warsaw University of Technology / Faculty of Electrical Engineering}
+{\textsc{Warsaw, Poland}} {
+
+\headedsubsection % Job title entry for the current employer
+{Bachelor degree in Electromobility}
+{2021-- 2025}
+{\bodytext{Studied electromobility with a focus on electric vehicle technology, 
+energy storage systems, and power electronics. Developed a bachelor's thesis on the 
+design of a Battery Management System (BMS) for three series-connected Li-ion cells.}}
+}
+
+\spacedhrule{0.5em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\roottitle{Certifications}
+\headedsubsection % Special section that has an inline header with a 'hanging' paragraph
+{\href{https://certificates.mooc.fi/validate/1maqk140qk4L}
+{Elements of AI (The basics of artificial intelligence)}}
+{}
+
+\headedsubsection % Special section that has an inline header with a 'hanging' paragraph
+{\href{https://www.credly.com/badges/af3440ab-a859-4927-a4ad-5df752dd7c4a/public_url}
+{Unity Essentials Pathway}}
+{}
+
+\spacedhrule{0.8em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+\roottitle{Skills} % Top level section
+
+\inlineheadsection % Special section that has an inline header with a 'hanging' paragraph
+{Technical specialties:}
+{I am proficient in programming languages such as C, C++, C\#, Python, Lua, and Java, 
+with a strong foundation in object-oriented programming. I have experience using Git and 
+GitHub for source code management and collaboration. Additionally, I am skilled in working 
+with Linux distributions, including Arch and Ubuntu. My background also includes 
+familiarity with Unity for developing interactive applications, and I have hands-on 
+experience in music production using FL Studio for composing and producing music.}
+
+%------------------------------------------------
+
+\inlineheadsection % Special section that has an inline header with a 'hanging' paragraph
+{Languages:}
+{Polish \textit{(native)}, English \textit{(C1)}, French \textit{(A2)}.}
+
+%------------------------------------------------
+
+\spacedhrule{1.6em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\roottitle{Interests} % Top level section
+
+\inlineheadsection % Special section that has an inline header with a 'hanging' paragraph
+{Non-exhaustive and in alphabetical order:}
+{Software development, drawing, music production, game development, cooking, calisthenics, running.}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
