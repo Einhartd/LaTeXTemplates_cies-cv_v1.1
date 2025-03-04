@@ -1,6 +1,6 @@
-PWD c:\Users\kniac\Downloads\LaTeXTemplates_cies-cv_v1.1
+PWD c:\Users\kniac\Documents\GitHub\LaTeXTemplates_cies-cv_v1.1
 INPUT C:\Users\kniac\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\kniac\Downloads\LaTeXTemplates_cies-cv_v1.1\cv_11.tex
+INPUT c:\Users\kniac\Documents\GitHub\LaTeXTemplates_cies-cv_v1.1\cv_11.tex
 OUTPUT cv_11.log
 INPUT C:\Users\kniac\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\kniac\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
