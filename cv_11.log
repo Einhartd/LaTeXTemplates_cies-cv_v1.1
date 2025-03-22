@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.15)  4 MAR 2025 18:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.15)  22 MAR 2025 10:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -421,17 +421,17 @@ Package rerunfilecheck Info: File `cv_11.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11575 strings out of 473682
- 184769 string characters out of 5719215
- 633840 words of memory out of 5000000
+ 11577 strings out of 473682
+ 184787 string characters out of 5719215
+ 635840 words of memory out of 5000000
  34493 multiletter control sequences out of 15000+600000
- 596718 words of font info for 83 fonts, out of 8000000 for 9000
+ 596858 words of font info for 84 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  82i,5n,84p,1062b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/kniac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kniac/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/kniac/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/kniac/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on cv_11.pdf (1 page, 180343 bytes).
+Output written on cv_11.pdf (1 page, 181740 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  24065 words of extra memory for PDF output out of 24883 (max. 10000000)
 
