@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1742832967.57162 "c:/Users/kniac/Documents/GitHub/LaTeXTemplates_cies-cv_v1.1/cv_11.tex" "cv_11.pdf" "cv_11" 1742832969.3913 0
+["pdflatex"] 1745849666.42674 "c:/Users/kniac/Documents/GitHub/LaTeXTemplates_cies-cv_v1.1/cv_11.tex" "cv_11.pdf" "cv_11" 1745849668.14095 0
   "C:/Users/kniac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738422233 121421 986c656c18d5dae14116b93751df729f ""
   "C:/Users/kniac/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1734293007 11986914 033c589aec328412bd420854af14cabf ""
   "C:/Users/kniac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec-sc.enc" 1525740614 2881 8e2aef9e38084b946e7656b60672fedb ""
@@ -67,10 +67,10 @@
   "C:/Users/kniac/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1730400552 32879 f4cfa2226c995da5b04a89ee47abf182 ""
   "C:/Users/kniac/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/kniac/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/kniac/Documents/GitHub/LaTeXTemplates_cies-cv_v1.1/cv_11.tex" 1742832964 10237 e8e1b773c1d3e1be96f39d1ced32e03e ""
-  "cv_11.aux" 1742832969 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "cv_11.out" 1742832969 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_11.tex" 1742832964 10237 e8e1b773c1d3e1be96f39d1ced32e03e ""
+  "c:/Users/kniac/Documents/GitHub/LaTeXTemplates_cies-cv_v1.1/cv_11.tex" 1745849662 10451 6806b8dec23a90f79627666ccbd5931d ""
+  "cv_11.aux" 1745849667 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "cv_11.out" 1745849667 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_11.tex" 1745849662 10451 6806b8dec23a90f79627666ccbd5931d ""
   "structure.tex" 1741108958 4453 b7417a3b990a9edf50aaabd697c308bc ""
   (generated)
   "cv_11.aux"
